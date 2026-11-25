@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customLabels>
+        <label>Votre opportunité ne peut pas être mise à jour car vous avez un souci de quantité sur vos lignes.</label>
+        <name>Flow_OppProducts_erreur_quantit_stock</name>
+    </customLabels>
+    <customLabels>
+        <label>Opportunité produits</label>
+        <name>LWC_OppProducts_Table_Name</name>
+    </customLabels>
+    <customLabels>
+        <label>Voir produit</label>
+        <name>OppProducts_Bouton_See_Product</name>
+    </customLabels>
+    <customLabels>
+        <label>Nom du produit</label>
+        <name>OppProducts_Col_ProductName</name>
+    </customLabels>
+    <customLabels>
+        <label>Quantité</label>
+        <name>OppProducts_Col_ProductQuantity</name>
+    </customLabels>
+    <customLabels>
+        <label>Quantité en stock</label>
+        <name>OppProducts_Col_QuantityStock</name>
+    </customLabels>
+    <customLabels>
+        <label>Prix Total</label>
+        <name>OppProducts_Col_TotalPrice</name>
+    </customLabels>
+    <customLabels>
+        <label>Prix Unitaire</label>
+        <name>OppProducts_Col_UnitPrice</name>
+    </customLabels>
+    <customLabels>
+        <label>Vous avez au moins une ligne avec un problème
+de quantité, veuillez supprimer cette ligne ou
+réduire sa quantité.
+Si vous avez absolument besoin de plus de
+produits, veuillez contacter votre Système
+administrateur.</label>
+        <name>OppProducts_Message_stock_error</name>
+    </customLabels>
+    <customLabels>
+        <label>Vous n&apos;avez aucune ligne de produits pour le
+moment.
+1. Veuillez tout d&apos;abord sélectionner un
+Catalogue (Pricebook)
+2. Sélectionnez ensuite les produits à ajouter.</label>
+        <name>OppProducts_Message_zero_line</name>
+    </customLabels>
+    <customLabels>
+        <label>Supprimer</label>
+        <name>OppProducts_bouton_Delete</name>
+    </customLabels>
+</Translations>
